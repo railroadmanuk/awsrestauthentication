@@ -17,8 +17,8 @@ function main() {
   ];
 
   // our variables
-  var access_key = 'ACCESS_KEY_VALUE'
-  var secret_key = 'SECRET_KEY_VALUE'
+  var access_key = 'ACCESS_KEY_VALUE';
+  var secret_key = 'SECRET_KEY_VALUE';
   var region = 'eu-west-1';
   var url = 'my-bucket-name.s3.amazonaws.com';
   var myService = 's3';
